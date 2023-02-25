@@ -1,0 +1,6 @@
+D:\Programming\VisualStudio\BankAcountsOOP\BankAcountsOOP\bin\Debug\BankAcountsOOP.exe.config
+D:\Programming\VisualStudio\BankAcountsOOP\BankAcountsOOP\bin\Debug\BankAcountsOOP.exe
+D:\Programming\VisualStudio\BankAcountsOOP\BankAcountsOOP\bin\Debug\BankAcountsOOP.pdb
+D:\Programming\VisualStudio\BankAcountsOOP\BankAcountsOOP\obj\Debug\BankAcountsOOP.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\BankAcountsOOP\BankAcountsOOP\obj\Debug\BankAcountsOOP.exe
+D:\Programming\VisualStudio\BankAcountsOOP\BankAcountsOOP\obj\Debug\BankAcountsOOP.pdb

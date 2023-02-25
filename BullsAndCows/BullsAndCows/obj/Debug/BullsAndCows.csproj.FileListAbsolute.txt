@@ -1,0 +1,11 @@
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.AssemblyReference.cache
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.SuggestedBindingRedirects.cache
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Form1.resources
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.GenerateResource.cache
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\bobar\Desktop\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb

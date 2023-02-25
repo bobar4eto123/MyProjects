@@ -1,0 +1,10 @@
+D:\Programming\VisualStudio\AimGame\AimGame\bin\Debug\AimGame.exe.config
+D:\Programming\VisualStudio\AimGame\AimGame\bin\Debug\AimGame.exe
+D:\Programming\VisualStudio\AimGame\AimGame\bin\Debug\AimGame.pdb
+D:\Programming\VisualStudio\AimGame\AimGame\obj\Debug\AimGame.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\AimGame\AimGame\obj\Debug\AimGame.Form1.resources
+D:\Programming\VisualStudio\AimGame\AimGame\obj\Debug\AimGame.Properties.Resources.resources
+D:\Programming\VisualStudio\AimGame\AimGame\obj\Debug\AimGame.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\AimGame\AimGame\obj\Debug\AimGame.exe
+D:\Programming\VisualStudio\AimGame\AimGame\obj\Debug\AimGame.pdb
+D:\Programming\VisualStudio\AimGame\AimGame\obj\Debug\AimGame.csproj.CoreCompileInputs.cache

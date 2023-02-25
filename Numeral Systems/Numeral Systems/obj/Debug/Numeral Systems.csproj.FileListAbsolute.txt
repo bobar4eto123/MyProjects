@@ -1,0 +1,10 @@
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\bin\Debug\Numeral Systems.exe.config
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\bin\Debug\Numeral Systems.exe
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\bin\Debug\Numeral Systems.pdb
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\obj\Debug\Numeral Systems.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\obj\Debug\Numeral_Systems.Form1.resources
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\obj\Debug\Numeral_Systems.Properties.Resources.resources
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\obj\Debug\Numeral Systems.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\obj\Debug\Numeral Systems.exe
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\obj\Debug\Numeral Systems.pdb
+D:\Programming\VisualStudio\Numeral Systems\Numeral Systems\obj\Debug\Numeral Systems.csproj.CoreCompileInputs.cache

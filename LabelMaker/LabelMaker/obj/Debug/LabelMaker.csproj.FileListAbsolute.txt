@@ -1,0 +1,10 @@
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\obj\Debug\LabelMaker.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\obj\Debug\LabelMaker.Form1.resources
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\obj\Debug\LabelMaker.Properties.Resources.resources
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\obj\Debug\LabelMaker.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\bin\Debug\LabelMaker.exe.config
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\bin\Debug\LabelMaker.exe
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\bin\Debug\LabelMaker.pdb
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\obj\Debug\LabelMaker.exe
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\obj\Debug\LabelMaker.pdb
+D:\Programming\VisualStudio\LabelMaker\LabelMaker\obj\Debug\LabelMaker.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Form1.resources
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\obj\Debug\FormExercises.MyLabel.resources
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+D:\Programming\VisualStudio\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
